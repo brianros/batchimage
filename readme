@@ -1,0 +1,13 @@
+A simple image processor that adds text to an image made by Brian Rosenfeld (brianros@gmail.com).
+
+Feel free to use it any way you want.
+
+
+
+TODOS
+
+save the default settings after usage
+improve the preview process
+add feedback for the process completion
+cleanup the code to remove unnecessary parts
+bugfix
