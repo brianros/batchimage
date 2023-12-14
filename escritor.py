@@ -164,7 +164,7 @@ class ImageProcessor:
 
         with open(names_list_path, "r") as file:
             reader = csv.reader(file)
-            header = next(reader)
+           # header = next(reader)
 
             for row in reader:
                 if row:
